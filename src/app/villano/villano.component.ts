@@ -16,11 +16,11 @@ export class VillanoComponent implements OnInit {
   poder = 0;
 
   VILLANOS: Villano[] = [
-    {id: 1, nombre: 'THANOS', poder: 0, nombrepoder: 'SUPER FUERZA'},
-    {id: 2, nombre: 'DR.OCTOPUS', poder: 0, nombrepoder: 'CUATRO TENTACULOS' },
-    {id: 3, nombre: 'VENOM', poder: 0, nombrepoder: 'FUERZA Y AGILIDAD'},
-    {id: 4, nombre: 'DUENDE VERDE', poder: 0, nombrepoder: 'FUERZA SOBREHUMANA'},
-    {id: 5, nombre: 'KARLY', poder:  0,nombrepoder: 'SUPERSOLDADO'}
+    {id: 1., nombre: 'THANOS', poder: 0, nombrepoder: 'SUPER FUERZA'},
+    {id: 2., nombre: 'DR.OCTOPUS', poder: 0, nombrepoder: 'CUATRO TENTACULOS' },
+    {id: 3., nombre: 'VENOM', poder: 0, nombrepoder: 'FUERZA Y AGILIDAD'},
+    {id: 4., nombre: 'DUENDE VERDE', poder: 0, nombrepoder: 'FUERZA SOBREHUMANA'},
+    {id: 5., nombre: 'KARLY', poder:  0,nombrepoder: 'SUPERSOLDADO'}
     ];
 
   constructor() { }
